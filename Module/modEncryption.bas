@@ -1,5 +1,6 @@
 Attribute VB_Name = "modEncryption"
-' Version : 1.0
+' Version : 1.2.22
+'
 ' Modified On : 01/10/2014
 ' Descriptions : This Module is created by Aeric Poon for simple encryption
 Option Explicit

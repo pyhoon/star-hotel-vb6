@@ -1,5 +1,5 @@
 Attribute VB_Name = "modTextFile"
-' Version : 2.1
+' Version : 1.2.22
 '
 ' Modified On : 17/12/2014
 ' Descriptions : 1) Added sub Log2File

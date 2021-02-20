@@ -1,5 +1,5 @@
 Attribute VB_Name = "modDatabase"
-' Version      : 2.0.2
+' Version      : 1.2.22
 ' Modified On  : 17/12/2014
 ' Descriptions : This Module is created by Aeric Poon
 '                for all necessary database routine
