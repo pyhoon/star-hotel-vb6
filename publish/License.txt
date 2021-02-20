@@ -1,0 +1,19 @@
+Installing this software indicates that you agree to the following agreements:
+
+
+You are free to evaluate this software until the expiry date.
+
+
+Developer does not guarantee any damage or issue cause by installing and using this software.
+
+
+This is a free software that does not provide with any support services.
+
+
+You may however contact the developer at sales@computerise.my for customization for your own use which involve a paid service.
+
+
+Note: For Windows 7 and newer, please install into a directory which does not require Administrator permission such as C:\Booking.
+
+
+Installing the software to Program Files may cause permission issue when writing files such as error log and database file stored in VirtualStore folder.
