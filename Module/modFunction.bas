@@ -1,5 +1,6 @@
 Attribute VB_Name = "modFunction"
-' Version : 2.1
+' Version : 1.2.22
+'
 ' Modified On : 04/01/2015
 ' Descriptions : 1) Modify function UserAccessModule to allow check for other UserID
 

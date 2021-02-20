@@ -1,5 +1,5 @@
 Attribute VB_Name = "modGlobalVariable"
-' Version : 1.0.18
+' Version : 1.2.22
 '
 ' Modified On : 19/05/2018
 Option Explicit
