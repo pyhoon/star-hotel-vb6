@@ -30,6 +30,7 @@ Form=Form\frmDialog.frm
 Form=Form\frmUserMaintain.frm
 Form=Form\frmAdmin.frm
 Module=modMain; Module\modMain.bas
+ResFile32="StarHotel.res"
 IconForm="frmBooking"
 Startup="Sub Main"
 HelpFile=""
